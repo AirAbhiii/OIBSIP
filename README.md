@@ -9,7 +9,7 @@ This repository contains tasks completed during my data science internship. Each
 Classifies emails as spam or not spam using text processing and machine learning models.
 
 2. Car Price Prediction  
-Predicts the price of a car based on various features like brand, year, and mileage.
+Predicts the price of a car,horsepower,brand,mileage.
 
 3. Iris Flower Detection  
 Classifies iris flowers into different species using petal and sepal measurements.
